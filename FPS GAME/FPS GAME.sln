@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPS GAME", "FPS GAME.csproj", "{20FA24D2-9223-87CF-1EE4-80B74FB190A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPS GAME.Editor", "FPS GAME.Editor.csproj", "{0DBFF079-4665-944B-2C2A-3C3DF6DF7B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FA24D2-9223-87CF-1EE4-80B74FB190A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FA24D2-9223-87CF-1EE4-80B74FB190A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FA24D2-9223-87CF-1EE4-80B74FB190A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FA24D2-9223-87CF-1EE4-80B74FB190A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DBFF079-4665-944B-2C2A-3C3DF6DF7B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBFF079-4665-944B-2C2A-3C3DF6DF7B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBFF079-4665-944B-2C2A-3C3DF6DF7B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBFF079-4665-944B-2C2A-3C3DF6DF7B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
